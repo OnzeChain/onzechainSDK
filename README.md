@@ -1,4 +1,4 @@
-# QuickSwap SDK
+# OnzeChain SDK
 
 
 ## Running tests
@@ -6,16 +6,6 @@
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
 
 First clone the repository:
-
-```sh
-git clone https://github.com/sameepsi/quickswap-sdk.git
-```
-
-Move into the quickswap-sdk working directory
-
-```sh
-cd quickswap-sdk/
-```
 
 Install dependencies
 
